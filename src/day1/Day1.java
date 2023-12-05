@@ -33,7 +33,7 @@ public class Day1 {
 
                     ret.add(numero);
                 }
-                //String everything = sb.toString();
+
 
             } finally {
                 br.close();
